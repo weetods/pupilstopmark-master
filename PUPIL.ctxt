@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PUPIL()
+comment1.params=dataItems
+comment1.target=void\ readPupilDetails(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ writeDetails()
+comment3.params=
+comment3.target=int\ getMark()
+comment4.params=
+comment4.target=java.lang.String\ getfName()
+comment5.params=
+comment5.target=java.lang.String\ getsName()
+comment6.params=
+comment6.target=void\ displayDetails()
+numComments=7
